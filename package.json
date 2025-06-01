@@ -1,12 +1,12 @@
 {
-  "name": "LAKA-MD",
+  "name": "RUSH-X-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start lakaofc.js --deep-monitoring --attach --name LAKA-MD",
-    "stop": "pm2 stop LAKA-MD",
-    "restart": "pm2 restart LAKA-MD"
+    "start": "pm2 start lakaofc.js --deep-monitoring --attach --name RUSH-X-MD",
+    "stop": "pm2 stop RUSH-X-MD",
+    "restart": "pm2 restart RUSH-X-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-mod",
